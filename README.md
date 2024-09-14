@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chukwunonso Nnalue</h1>
-<h3 align="center">Experienced Full-stack Developer with an 8-year track record. Specializing in building and optimizing applications for business scalability, driving growth and productivity. Skilled in crafting user-focused websites and applications. Passionate about sharing knowledge through effective teaching. Recognized for creative problem-solving and driving competitive advantages. Technically proficient and analytically minded, with a focus on translating conceptual ideas into practical solutions.</h3>
+<h3 align="center">Experienced Software Engineer with an 8-year track record. Specializing in building and optimizing applications for business scalability, utilizing data effectively, driving growth, and productivity. Skilled in crafting user-focused smart applications and providing business opportunities to use ML/AI for business growth. Passionate about sharing knowledge through effective teaching. Recognized for creative problem-solving and driving competitive advantages. Technically proficient and analytically minded, with a focus on translating conceptual ideas into practical solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codiecoder&label=Profile%20views&color=0e75b6&style=flat" alt="codiecoder" /> </p>
 

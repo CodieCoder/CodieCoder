@@ -102,71 +102,14 @@ Some startup products are private, but I share public case studies, architecture
 
 ---
 
-## Featured Work
-
-### CommerceOS / Swiftrader
-
-Private startup product under Amaraii.
-
-A multi-tenant ecommerce engine and business platform covering products, branches, inventory, checkout, orders, payments, storefronts, and analytics.
-
-Focus areas:
-
-- Multi-tenant ecommerce architecture
-- Branch-aware inventory and pricing
-- Checkout and order workflows
-- Business-owned payment flows
-- Vendor storefronts and product publishing
-- Analytics foundation
-
-### Business Agents
-
-Private startup product under Amaraii.
-
-An AI agent platform for businesses to create assistants for support, operations, and customer communication.
-
-Focus areas:
-
-- Multi-tenant AI runtime
-- RAG knowledge ingestion
-- Conversation memory
-- Tool orchestration
-- Web, Telegram, and future channel integrations
-- Business-focused AI automation
-
-### iconsAgent
-
-AI-powered semantic search for React Icons.
-
-Focus areas:
-
-- LLM-assisted keyword generation
-- Embeddings and vector search
-- pgvector similarity search
-- LLM reranking
-- Developer productivity UX
-
-### Datalysis / Dataspeak
-
-AI-assisted analytics and charting project.
-
-Focus areas:
-
-- Data visualization
-- AI-guided chart suggestions
-- Business-readable insights
-- JavaScript charting tools
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaraii-tech&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codieCoder&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraii-tech&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codieCoder&layout=compact" alt="Top languages" />
 </p>
 
 ---
